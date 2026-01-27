@@ -1,0 +1,26 @@
+
+.card{
+  background-color: rgb(236, 161, 161);
+  padding: 20px;
+  margin: 20px;
+  border-radius: 20px;
+}
+.nav{
+  background-color: black;
+  color: antiquewhite;
+  border: 2px solid red;
+  padding: 10px;
+  margin: 10px;
+  justify-items: center;
+}
+
+.foot{
+  background-color: black;
+  color: antiquewhite;
+  border: 2px solid rgb(97, 192, 65);
+  display: flex;
+  justify-content: center; /* optional: centers items */
+  align-items: center;
+  gap: 30px; /* space between each <p> */
+
+}
