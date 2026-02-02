@@ -1,0 +1,27 @@
+html,
+body{
+    height: 100%;
+    width: 100%;
+}
+
+
+.light{
+    display: flex;
+    background-color: lightseagreen;
+    justify-content: space-between;
+    align-items: center;
+    padding: 14px 20px;
+    background-color: lightseagreen;
+}
+.dark{
+    display: flex;
+    background-color: lightseagreen;
+    justify-content: space-between;
+    align-items: center;
+    padding: 14px 20px;
+    background-color: darkslategray;
+}
+.nav2{
+    display: flex;
+    gap: 30px;
+}
